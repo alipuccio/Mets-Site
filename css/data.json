@@ -1,0 +1,87 @@
+{
+    "overallteamstandings": {
+        "lastUpdatedOn": "2018-04-23 12:37:51 AM",
+        "teamstandingsentry": [
+            {
+                "team": {
+                    "ID": "127",
+                    "City": "New York",
+                    "Name": "Mets",
+                    "Abbreviation": "NYM"
+                },
+                "rank": "3",
+                "stats": {
+                    "GamesPlayed": {
+                        "@abbreviation": "G",
+                        "#text": "20"
+                    },
+                    "Runs": {
+                        "@category": "Batting",
+                        "@abbreviation": "R",
+                        "#text": "96"
+                    },
+                    "Hits": {
+                        "@category": "Batting",
+                        "@abbreviation": "H",
+                        "#text": "157"
+                    },
+                    "Homeruns": {
+                        "@category": "Batting",
+                        "@abbreviation": "HR",
+                        "#text": "19"
+                    },
+                    "RunsBattedIn": {
+                        "@category": "Batting",
+                        "@abbreviation": "RBI",
+                        "#text": "92"
+                    },
+                    "StolenBases": {
+                        "@category": "Batting",
+                        "@abbreviation": "SB",
+                        "#text": "8"
+                    },
+                    "BattingAvg": {
+                        "@category": "Batting",
+                        "@abbreviation": "AVG",
+                        "#text": "0.240"
+                    },
+                    "RunsAllowed": {
+                        "@category": "Pitching",
+                        "@abbreviation": "R",
+                        "#text": "77"
+                    },
+                    "Shutouts": {
+                        "@category": "Pitching",
+                        "@abbreviation": "SHO",
+                        "#text": "0"
+                    },
+                    "InningsPlayed": {
+                        "@category": "Fielding",
+                        "@abbreviation": "INN",
+                        "#text": "181.4"
+                    },
+                    "Wins": {
+                        "@category": "Standings",
+                        "@abbreviation": "W",
+                        "#text": "14"
+                    },
+                    "Losses": {
+                        "@category": "Standings",
+                        "@abbreviation": "L",
+                        "#text": "6"
+                    },
+                    "WinPct": {
+                        "@category": "Standings",
+                        "@abbreviation": "Win %",
+                        "#text": "0.700"
+                    },
+                    "GamesBack": {
+                        "@category": "Standings",
+                        "@abbreviation": "GB",
+                        "#text": "2.5"
+                    }
+                }
+            }
+        ]
+    }
+}

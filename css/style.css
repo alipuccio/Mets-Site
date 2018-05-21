@@ -1,0 +1,140 @@
+body {
+  font-family: 'Slabo 27px', serif;
+  margin: 0;
+  background-color: rgba(222, 223, 224, 1);
+}
+
+h1 {
+  font-size: 38px;
+}
+
+h4 {
+  font-size: 25px;
+}
+
+.header-banner {
+  background-color: rgba(255, 165, 0, 1);
+  height: 60px;
+  width: 100vw;
+}
+
+.banner-text {
+  color: blue;
+  display: block;
+  font-size: 30px;
+  line-height: 30px;
+  padding: 15px 0 15px 30px;
+  text-align: center;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.main-text-color {
+  color: blue;
+}
+
+#name {
+  color: blue;
+}
+
+.raccoon {
+  display: inline-block;
+  height: auto;
+  margin-left: calc(90% - 250px);
+  width: 250px;
+}
+
+.profile-text {
+  margin-left: calc(20% - 250px);
+  width: 290px;
+}
+
+.video-container {
+  margin: 0 auto 50px auto;
+  position: static;
+  width: 80%;
+}
+
+.video-grid {
+  height: 300px;
+  width: calc(50% - 10px);
+}
+
+.footer-banner {
+  background-color: rgba(255, 165, 0, 1);
+  height: 60px;
+  width: 100vw;
+}
+
+.text-left {
+  text-align: left;
+  margin-left: calc(90% - 250px);
+}
+
+.player-container {
+  margin-left: calc(18% - 250px);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.favorites-banner {
+  margin-top: -70%;
+  color: rgba(0, 0, 155, 1);
+  font-size: 45px;
+  line-height: 45px;
+}
+.terry-collins {
+  display: flex;
+  flex-direction: column;
+  height: 200px;
+  width:auto;
+  color: rgba(255, 165, 0, 1);
+  justify-content: space-around;
+ }
+
+.terry-container {
+  display: flex;
+  margin-left: calc(18% - 250px);
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.manager-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.berry-collins {
+  display: flex;
+  flex-direction: column;
+  height: 50px;
+  width:auto;
+  color: rgba(255, 165, 0, 1);
+  justify-content: space-around;
+ }
+
+table {
+  margin-left: calc(21% - 250px);
+  margin-top: calc(20% - 250px);
+  border-collapse: collapse;
+  color: rgb(0,0, 255);
+}
+
+td, th {
+  border: 5px solid #999;
+  padding: 0.5rem;
+  font-family: monospace;
+  font-size: 30px;
+  border-color: orange;
+}
+
+
+#first-child1 {
+  border-top: none;
+  border-left: none;
+}
